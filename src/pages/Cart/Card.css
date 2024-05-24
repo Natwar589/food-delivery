@@ -1,0 +1,19 @@
+@media (max-width:750px) {
+    .cart-bottom{
+    flex-direction: column-reverse;
+    gap: 50px;
+    
+    }
+    .cart-bottom button{
+      width: 170px;
+      padding: 10px;
+      font-size: 15px;
+    }
+    .cart-promocode{
+        justify-content: start;
+        margin-bottom: 50px;
+    }
+    .promo-p{
+        font-size: 15px;
+    }
+}
